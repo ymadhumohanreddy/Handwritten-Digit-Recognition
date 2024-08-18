@@ -1,6 +1,7 @@
 
 
-```markdown
+
+
 # Handwritten Digit Recognition
 
 ## Overview
@@ -15,14 +16,10 @@ This project implements a handwritten digit recognition system using Artificial 
 
 ## Project Structure
 
-```
-Handwritten-Digit-Recognition/
-│
-├── handwritten_digit_recognition.py  # Main script for model training and evaluation
-├── requirements.txt                  # List of dependencies
-├── README.md                         # This README file
-└── LICENSE                           # License file
-```
+- `handwritten_digit_recognition.py`: Main script for model training and evaluation.
+- `requirements.txt`: List of dependencies.
+- `README.md`: This README file.
+- `LICENSE`: License file.
 
 ## Installation
 
@@ -95,7 +92,6 @@ print(f"Accuracy: {scores[1]*100:.2f}%")
 ```
 
 
-
 ## Acknowledgements
 
 - **MNIST Dataset:** Provided by Yann LeCun and the original authors.
@@ -103,12 +99,6 @@ print(f"Accuracy: {scores[1]*100:.2f}%")
 
 ## Contact
 
-For any questions or feedback, please reach out to yeddulamadhu6@gmail.com
-```
+For any questions or feedback, please contact yeddulamadhu@gmail.com
 
-**Instructions for Use:**
-
-1. **Save the README.md file** to the root of your GitHub repository.
-2. **Ensure `handwritten_digit_recognition.py`** contains the sample code or your actual implementation.
-
-This README file will help others understand and use your project effectively.
+---
